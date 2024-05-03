@@ -1,4 +1,4 @@
-# Repository for John Savill's DevOps Master Class #
+# Repository for John Savill's DevOps Master Class Edited by Allyssa, Nigeria #
 
 <a href="https://youtube.com/NTFAQGuy" rel="YouTube Channel">![DevOps Master Class](/Images/logosmall.png)</a>
 
